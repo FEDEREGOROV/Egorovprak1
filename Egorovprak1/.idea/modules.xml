@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Egorovprak1.iml" filepath="$PROJECT_DIR$/.idea/modules/Egorovprak1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Egorovprak1.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Egorovprak1.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clickbutton/Egorovprak1.clickbutton.iml" filepath="$PROJECT_DIR$/.idea/modules/clickbutton/Egorovprak1.clickbutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/layouttype/Egorovprak1.layouttype.iml" filepath="$PROJECT_DIR$/.idea/modules/layouttype/Egorovprak1.layouttype.iml" />
+    </modules>
+  </component>
+</project>
